@@ -1,3 +1,6 @@
+Projeto Front-end para prática de React criação de um site para um Restaurante
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
